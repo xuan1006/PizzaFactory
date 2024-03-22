@@ -1,11 +1,6 @@
 package org.example;
 
-import Chicago.ChicagoStyleCheesePizza;
-import Chicago.ChicagoStyleClamPizza;
-import Chicago.ChicagoStylePepperoniPizza;
-import Chicago.ChicagoStyleVeggiePizza;
-
-public class ChicagoStylePizzaStore extends PizzaStore{
+public class ChicagoPizzaStore extends PizzaStore{
     @Override
     protected Pizza createPizza(String item) {
        if (item.equals("cheese")){

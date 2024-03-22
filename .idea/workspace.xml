@@ -4,15 +4,44 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ece8f49-9060-4232-b7fb-dd7d952eb896" name="Changes" comment="" />
+    <list default="true" id="3ece8f49-9060-4232-b7fb-dd7d952eb896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChicagoStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChicagoStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChicagoStylePepperoniPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/ChicagoStyleVeggiePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NYStyleCheesePizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/NYStyleClamPizza.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/PizzaTestDrive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chicago/ChicagoStyleCheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chicago/ChicagoStyleClamPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chicago/ChicagoStylePepperoniPizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Chicago/ChicagoStyleVeggiePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NY/NYStyleCheesePizza.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NY/NYStylePepperoniPizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NYStylePepperoniPizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/NY/NYStyleVeggiePizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NYStyleVeggiePizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/ChicagoPizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/ChicagoPizzaStore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/NYPizzaStory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/NYPizzaStory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Pizza.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Pizza.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/PizzaStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/PizzaStore.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2dxi9ZrkVGyucmfiIGWVWe8D6H8" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -20,14 +49,26 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.PizzaTestDrive.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/bob92/IdeaProjects/PizzaFactory",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example" />
+      <recent name="Chicago" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -44,6 +85,7 @@
       <option name="presentableId" value="Default" />
       <updated>1710955980161</updated>
       <workItem from="1710955981216" duration="17000" />
+      <workItem from="1711121685001" duration="6446000" />
     </task>
     <servers />
   </component>
